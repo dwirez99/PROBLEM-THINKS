@@ -1,7 +1,7 @@
 # PROBLEM-THINKS
 this wiil contain my steps to solve the problem
 
-#ntfs3 mounting partition failed
+# ntfs3 mounting partition failed
 first install ntfs-3g 
 <pre>
   sudo pacman -S ntfs-3g
